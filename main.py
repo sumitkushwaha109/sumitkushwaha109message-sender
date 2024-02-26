@@ -32,7 +32,7 @@ def btn_click():
 
 # Creating GUI
 root = Tk()
-root.title("Your Message Sender ")
+root.title("Your Message Sender Box ")
 root.geometry("400x550")
 font = ("FontSugarfoot", 35, "bold")
 textNumber = Entry(root, font=font)
